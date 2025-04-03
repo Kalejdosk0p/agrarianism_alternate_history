@@ -306,9 +306,9 @@ Q.kpd_r = 9;
 Q.z_r = 17;
 Q.ddp_r = 6;
 Q.dvp_r = 10;
-Q.dnvp_r = 20;
+Q.dnvp_r = 15;
 Q.nsdap_r = 3;
-Q.dlvp_r = 0;
+Q.dlvp_r = 5;
 Q.other_r = 9;
 
 // diff from prev
@@ -317,9 +317,9 @@ Q.old_kpd_r = 9;
 Q.old_z_r = 17;
 Q.old_ddp_r = 6;
 Q.old_dvp_r = 10;
-Q.old_dnvp_r = 20;
+Q.old_dnvp_r = 15;
 Q.old_nsdap_r = 3;
-Q.dlvp_r = 0;
+Q.old_dlvp_r = 5;
 Q.old_other_r = 9;
 
 // sapd isn't formed yet, but it may be formed
@@ -397,8 +397,8 @@ Q.economic_minister = 'Curtius';
 Q.economic_minister_party = 'DVP';
 Q.finance_minister = 'Köhler';
 Q.finance_minister_party = 'Z';
-Q.agriculture_minister = 'Schiele';
-Q.agriculture_minister_party = 'DNVP';
+Q.agriculture_minister = 'Hepp';
+Q.agriculture_minister_party = 'DLVP';
 
 // Events: what has occurred?
 Q.panzerkreuzer_seen = 0;
